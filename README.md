@@ -5,7 +5,7 @@ Card set for Aisleriot (GNOME desktop solitaire game).
 
 ### Download and vote
 
-C1 Cards available on [OpenDesktop.org](https://www.opendesktop.org/u/dchris/)
+C1 Cards are available on [OpenDesktop.org](https://www.opendesktop.org/p/1302965/)
 
 ### How to install and use
 
