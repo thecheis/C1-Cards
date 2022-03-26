@@ -1,7 +1,7 @@
 # 🂱 C1 Cards
 Card set for Aisleriot (GNOME desktop solitaire game).
 
-![C1 Cards](https://github.com/heychrisd/C1-Cards/blob/master/C1-Cards-Preview.png)
+![C1 Cards](https://github.com/thecheis/C1-Cards/blob/master/C1-Cards-Preview.png)
 
 ### Download and vote
 
@@ -35,6 +35,6 @@ Thanks!
 
 ---
 
-Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/hey_chris_d)
+Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/the_cheis)
 
 *christiandiaz.design@gmail.com*
